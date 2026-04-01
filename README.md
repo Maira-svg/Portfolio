@@ -6,7 +6,7 @@ A stunning, modern portfolio website showcasing the work, skills, and projects o
 ![Portfolio Preview](https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 ## 📌 Live Demo
-[View Portfolio](#) *(file:///C:/index.html)*
+[View Portfolio](#) *(https://github.com/Maira-svg/Portfolio/blob/main/index.html)*
 
 ---
 
